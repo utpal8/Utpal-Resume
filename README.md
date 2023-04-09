@@ -1,3 +1,3 @@
 # Utpal-Resume
 
-link: 
+link: https://utpal8.github.io/Utpal-Resume/
